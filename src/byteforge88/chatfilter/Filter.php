@@ -15,6 +15,7 @@ class Filter {
         foreach ($filtered_words as $word) {
             $message = str_replace($word, str_repeat("*", strlen($word)), $message);
         }
+
         return $message;
     }
 
