@@ -1,0 +1,8 @@
+# Add words to the list below to block them in chat.
+# Make sure to include different variations of the word.
+# result: word => ****
+words:
+  - "bitch"
+  - "slut"
+  - "nigga"
+  - "fucker"

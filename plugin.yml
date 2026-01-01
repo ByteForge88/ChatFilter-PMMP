@@ -1,0 +1,4 @@
+name: ChatFilter
+version: 1.0.0
+api: 5.36.0
+main: byteforge88\chatfilter\Core
